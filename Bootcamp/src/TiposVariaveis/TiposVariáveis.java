@@ -7,7 +7,7 @@ public class TiposVariáveis {
         int muitos; //-2Bi a 2Bi
         long slk; // muitos a muitos
         final int RODAS =  4; //Constante
-
+        final double PI = 3.14;
         String nome = "Leoman";
         String nomeCompleto = nome.concat(" ").concat("Cássio"); //Concatenação
         System.out.println(nomeCompleto);
