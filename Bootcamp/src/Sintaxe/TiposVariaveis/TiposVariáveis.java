@@ -1,4 +1,4 @@
-package TiposVariaveis;
+package Sintaxe.TiposVariaveis;
 
 public class TiposVariáveis {
     public static void main(String[] args) {
